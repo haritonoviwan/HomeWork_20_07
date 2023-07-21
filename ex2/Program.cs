@@ -6,15 +6,15 @@ int secondNumber = int.Parse(Console.ReadLine() ?? "");
 
 if (firstNumber > secondNumber)
 {
-    Console.Write($"max = {firstNumber}");
+    Console.Write($"a = {firstNumber}; b = {secondNumber} -> max = {firstNumber}");
 }
 
 else if (firstNumber < secondNumber)
 {
-    Console.Write($"max = {secondNumber}");
+    Console.Write($"a = {firstNumber}; b = {secondNumber} -> max = {secondNumber}");
 }
 
 else 
 {
-    Console.Write("Числа равны");
+    Console.Write($"a = {firstNumber}; b = {secondNumber} -> Числа равны");
 }
