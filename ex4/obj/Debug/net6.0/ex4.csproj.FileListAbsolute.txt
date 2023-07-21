@@ -1,0 +1,15 @@
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\ex4.csproj.AssemblyReference.cache
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\ex4.AssemblyInfoInputs.cache
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\ex4.AssemblyInfo.cs
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\ex4.csproj.CoreCompileInputs.cache
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\bin\Debug\net6.0\ex4.exe
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\bin\Debug\net6.0\ex4.deps.json
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\bin\Debug\net6.0\ex4.runtimeconfig.json
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\bin\Debug\net6.0\ex4.dll
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\bin\Debug\net6.0\ex4.pdb
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\ex4.dll
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\refint\ex4.dll
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\ex4.pdb
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\ex4.genruntimeconfig.cache
+C:\Users\harit\OneDrive\Рабочий стол\Обучение\Знакомство с языками программирования\HomeWork_20_07\ex4\obj\Debug\net6.0\ref\ex4.dll
